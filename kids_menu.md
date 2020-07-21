@@ -8,5 +8,8 @@ Mancarea cea mai bine aleasa si preparata pentru copii
 ## Dishes
 
 - [Omleta](kids-menu/kids-dish-omleta.md)
+* <img src="omlet.jpg" width="50px">
 - [Ice Cream](kids-menu/kids_dish_icecream.md)
+* <img src="IceCream.jpg" width="50px">
 - [Tort](kids-menu/kids-dish-tort.md)
+* <img src="cake.jpg" width="50px">
