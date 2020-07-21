@@ -1,2 +1,5 @@
 # This is our restaurant page
-# Welcome
+# Welcome to Siemens RESTAURANT
+
+## Menu
+## Kids Menu
