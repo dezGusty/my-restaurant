@@ -6,6 +6,9 @@
 =======
 # Welcome
 
+# About us
+- [See about us](about.md)
+
 # Specialities
 - [See our specialities](specialities.md)
 
