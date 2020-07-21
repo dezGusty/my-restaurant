@@ -1,4 +1,4 @@
-![Image](/carbonara.jpg)
+![Image](/images/carbonara.jpg)
 
 # Paste Carbonara
 
