@@ -1,5 +1,8 @@
-### Taco
- Ingredients
+![Image](../images/taco.jpg)
+
+## Taco
+ 
+## Ingredients
    * onion 
    *  red pepper 
    * green pepper
