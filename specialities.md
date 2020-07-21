@@ -4,4 +4,4 @@
 
 * [Taco](specialities/speciality-taco.md)
 
-* [Pizza roma](specialities/speciality_pizza_roma.md)
+* [Pizza roma](specialities/specialty_pizza_roma.md)
