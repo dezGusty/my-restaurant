@@ -9,3 +9,6 @@
 ## History
  - Because the founder is unknown, we don't have infromation about the establishing date, but judging by the paint of the walls, it could be 100 years old. 
  - Speaking of important events, once, we had a client.
+
+ #### Go home
+ - [Home](./main.md)
