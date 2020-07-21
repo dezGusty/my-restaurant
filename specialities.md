@@ -1,6 +1,7 @@
 # Specialities
 
-* [Paste](specialities/paste.md)
+* [Paste](specialities/paste.md)   
+  <img src = "images/carbonara.jpg" height = 50px >
 
 * [Taco](specialities/speciality-taco.md)
 
