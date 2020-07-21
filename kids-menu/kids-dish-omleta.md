@@ -1,6 +1,8 @@
 **Omleta**
 ==========
 
+![Omleta](omleta.jpg)
+
 Continut
 --------
 
