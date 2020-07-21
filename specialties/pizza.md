@@ -1,0 +1,4 @@
+faina
+ulei
+drojdie
+
