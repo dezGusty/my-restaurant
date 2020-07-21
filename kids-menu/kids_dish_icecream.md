@@ -3,6 +3,7 @@
 ### Ingredients
   * Milk
   * Sugar
-  * Vanilla
+  * Vanilla  
+
 
 - [Back to kids menu](../kids_menu.md)
