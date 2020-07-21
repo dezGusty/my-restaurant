@@ -1,7 +1,7 @@
 # Specialities
 
-* [Seafood soup](specialities/seafood_soup.md)
+* [Seafood soup](specialities/paste.md)
 
-* [Grilled salmon](specialities/grilled_salmon.md)
+* [Grilled salmon](specialities/speciality-taco.md)
 
-* [Barbeque ribs](specialities/barbeque_ribs.md)
+* [Barbeque ribs](specialities/speciality_pizza_roma.md)
