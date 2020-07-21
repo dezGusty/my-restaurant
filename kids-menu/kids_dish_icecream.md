@@ -5,4 +5,4 @@
   * Sugar
   * Vanilla
 
-- [Back to main page](kids_menu.md)
+- [Back to main page](../kids_menu.md)
