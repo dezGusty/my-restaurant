@@ -17,4 +17,4 @@
 
 # Contact
 - [See-our-contact](./contact.md)
-- [See out location](location.md)
+- [See our location](location.md)
