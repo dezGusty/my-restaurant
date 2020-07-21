@@ -3,11 +3,9 @@
 
 ## Menu
 ## Kids Menu
-=======
 
 - [Kids menu](kids_menu.md)
 
-# Welcome
 
 # About us
 - [See about us](about.md)
