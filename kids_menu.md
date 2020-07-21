@@ -7,4 +7,5 @@ Mancarea cea mai bine aleasa si preparata pentru copii
 
 ## Dishes
 
--[Omleta](kids-menu/kids-dish-omleta.md)
+- [Omleta](kids-menu/kids-dish-omleta.md)
+- [Ice Cream](kids-menu/kids_dish_icecream.md)
