@@ -1,4 +1,4 @@
-![Image](../images/pizza.jpg)
+![Image](/images/pizza.jpg)
 
 # Pizza Roma
 
